@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Paul Briar</title>
+        <link>https://paulbriar.com/posts/</link>
+        <description>Recent content in Posts on Paul Briar</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://paulbriar.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>New Blog Who Dis?</title>
+            <link>https://paulbriar.com/posts/2020/04/new-blog-who-dis/</link>
+            <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://paulbriar.com/posts/2020/04/new-blog-who-dis/</guid>
+            <description>Welcome To My New Blog I plan to post weekly regarding what I am currently working on as a developer, so please stay tuned for posts about Java, Spring Framework, JavaScript and or React!</description>
+            <content type="html"><![CDATA[<h2 id="welcome-to-my-new-blog">Welcome To My New Blog</h2>
+<p>I plan to post weekly regarding what I am currently working on as a developer, so please stay tuned for posts about Java, Spring Framework, JavaScript and or React!</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
