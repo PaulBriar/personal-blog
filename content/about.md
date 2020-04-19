@@ -14,7 +14,7 @@ My skills exist and continue to grow in the follow technologies:
 * React
 * Redux
 * Node 
-* Java - *Yes, you read that right*
+* Java - **Yes, you read that right**
 * Spring Framework
 * Spring Boot
 
