@@ -14,8 +14,8 @@ My skills exist and continue to grow in the follow technologies:
 * React
 * Redux
 * Node 
-* Java - **Yes, you read that right**
-* Spring Framework
-* Spring Boot
+* Python
+* Django
+* Django Rest Framework
 
 Curious about what I'm working on currently? [**Reach out**](mailto:me@paulbriar.com).
