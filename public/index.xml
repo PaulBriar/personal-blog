@@ -12,12 +12,22 @@
     
     
     <item>
+      <title>Why Learn Java In 2020?</title>
+      <link>https://paulbriar.com/posts/2020/05/why-learn-java-in-2020/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulbriar.com/posts/2020/05/why-learn-java-in-2020/</guid>
+      <description>From JavaScript To Java - Part 1 Why would a JavaScript developer pick up Java in 2020? Let me tell you a little about my story and I&amp;rsquo;ll tell you why&amp;hellip;
+With the wave of the COVID-19 pandemic and being laid-off shortly thereafter, I decided to take this time as an opportunity to grow. This growth was primarly focused on my skillset as a developer and on the areas of software development that I was really interested in.</description>
+    </item>
+    
+    <item>
       <title>New Blog Who Dis?</title>
       <link>https://paulbriar.com/posts/2020/04/new-blog-who-dis/</link>
       <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://paulbriar.com/posts/2020/04/new-blog-who-dis/</guid>
-      <description>Welcome To My New Blog I plan to post weekly regarding what I am currently working on as a developer, so please stay tuned for posts about Java, Spring Framework, JavaScript and or React!</description>
+      <description>Welcome To My New Blog I plan to post regularly regarding what I am currently working on as a developer, so please stay tuned for posts about Java, Spring Framework, JavaScript and or React!</description>
     </item>
     
     <item>
@@ -28,7 +38,7 @@
       <guid>https://paulbriar.com/about/</guid>
       <description>My name is Paul Briar, and I am a software developer.
 My skills exist and continue to grow in the follow technologies:
- JavaScript React Redux Node Python Django Django Rest Framework  Curious about what I&amp;rsquo;m working on currently? Reach out.</description>
+ JavaScript React Node Java Spring Framework  Curious about what I&amp;rsquo;m working on currently? Reach out.</description>
     </item>
     
   </channel>

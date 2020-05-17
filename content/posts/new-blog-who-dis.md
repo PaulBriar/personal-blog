@@ -15,5 +15,5 @@ series:
 
 ## Welcome To My New Blog
 
-I plan to post weekly regarding what I am currently working on as a developer, so please stay tuned for posts about Java, Spring Framework, JavaScript and or React!
+I plan to post regularly regarding what I am currently working on as a developer, so please stay tuned for posts about Java, Spring Framework, JavaScript and or React!
 
