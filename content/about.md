@@ -13,7 +13,5 @@ My skills exist and continue to grow in the follow technologies:
 * JavaScript
 * React
 * Node
-* Java
-* Spring Framework
 
 Curious about what I'm working on currently? [**Reach out**](mailto:me@paulbriar.com).
